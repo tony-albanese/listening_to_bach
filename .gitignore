@@ -12,3 +12,5 @@ introduction/introduction.tex.aux
 
 dissonance/dissonance.aux
 *.aux
+*.gz
+*.log
